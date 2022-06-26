@@ -12,14 +12,20 @@ Final project for the Building AI course
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
+My project is about saving the beaches all around the world. The beaches must be open for public. Especially those beaches where you can surf! :)
+
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
+This is more like at an imaginary problem where you might find that your favourite beach is very busy and occupied when you get there. So it would be really greate to book some beach time, but only for a short while. No one should be able to book the beach for a long time, and there should be a system that you only can do it so much in a given periode of time.
+
+
+
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* problem 1: Establish permissions to do such booking. Maybe only for a few select places around.
+* problem 2: Set uo the booking system. Maybe with a small fee for booking and reservation. And a secure login and identification system.
 * etc.
 
 
@@ -27,12 +33,16 @@ This is how you make a list, if you need one:
 
 Describe the process of using the solution. In what kind of situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+This would be an online system, web page and app.
+
+
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Beach](IMG_2712.JPG)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src=img_2712.jpg width="300">
 
 This is how you create code examples:
 ```
@@ -55,6 +65,9 @@ main()
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+
+There is need for user data, linking to weather data base, forecasts and such.
+
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
@@ -67,9 +80,14 @@ If you need to use links, here's an example:
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+If you book the beach in a long time ahead, you cannot be too sure about the weather. That is a chance you will need to take.
+
 ## What next?
 
+
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+
+Need to contact local government who apply rules for this kind of stuff. Then there is need for some good programmers to set up the system. And there need to be physical signs and information about bookin for the (surf) spot and time.
 
 
 ## Acknowledgments
